@@ -1,6 +1,9 @@
-!pip install numpy==1.26.4
-!pip install scikit-learn==1.4.2
-!pip install imbalanced-learn==0.12.3
-!pip install shap==0.45.1
-!pip install xgboost==2.0.3
-!pip install lightgbm==4.3.0
+numpy==1.26.4
+pandas==2.3.3
+scikit-learn==1.4.2
+imbalanced-learn==0.12.3
+xgboost==2.0.3
+lightgbm==4.3.0
+shap==0.45.1
+matplotlib
+seaborn
