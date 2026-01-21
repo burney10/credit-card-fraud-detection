@@ -21,6 +21,12 @@ The focus is on **handling extreme class imbalance, correct metric selection, mo
 
 ---
 
+## 📥 Dataset Access
+Download the dataset from Kaggle:
+https://www.kaggle.com/mlg-ulb/creditcardfraud
+
+---
+
 ## ⚠️ Key Challenges
 - Severe class imbalance  
 - Accuracy is misleading for evaluation  
