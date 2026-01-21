@@ -79,7 +79,7 @@ Instead of using the default `0.5` threshold, the model is tuned to:
 
 ## ▶️ How to Run
 ```bash```
-pip install -r requirements.txt  and 
+pip install -r requirements.txt  then 
 jupyter notebook notebooks/01_fraud_detection.ipynb
 
 ---
